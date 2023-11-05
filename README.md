@@ -1,6 +1,9 @@
 # credit-risk-classification-Unit-20
 
-An Overview Of The Analysis: The purpose of the analysis was to create a Supervised Learning program which is used to predict if a borrower has a healthy loan profile (value of 0) or a high risk profile (value of 1).
+An Overview Of The Analysis: 
+The purpose of the analysis was to create a Supervised Learning program which is used to predict if a borrower has a healthy loan profile (value of 0) or a high risk profile (value of 1).
+Variables that were factored into the model included: loan size, interest rate, borrower income, debt to income ratio, number of accounts, derogatory marks, and total debit.
+The logistic regression model was used to fit the training data. The final results were generated in a confusion matrix and a classification report.
 
 From the data collected there were 75036 that had good credit scores and 2500 that did not. Using the loan status column to determine if its a safe to lend a loan out to that customer.
 After spilting the data into test and trainning data than making a liner regression. The results showed a 99% accuary towards the machine learning.
@@ -34,5 +37,6 @@ For the second model
 weighted avg        0.99       0.99       0.99      19384
 
 
-A Summary: After running each model,the Model 2 performs slightly better. The results above show a very close comparison between each model.  Therefore, I would recommend to use Model 2 as it better predicting than Model 1.
+The Summary: 
+After running each model,the Model 2 performs slightly better. The results above show a very close comparison between each model.  Therefore, I would recommend to use Model 2 as it better predicting than Model 1.
 
