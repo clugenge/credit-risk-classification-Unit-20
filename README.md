@@ -16,9 +16,9 @@ For the first model
 
     accuracy                           0.99     19384
    
-   macro avg       0.92      0.95      0.94     19384
+   macro avg         0.92       0.95       0.94      19384
 
-weighted avg       0.99      0.99      0.99     19384
+weighted avg         0.99       0.99       0.99      19384
 
 For the second model
  
@@ -29,9 +29,9 @@ For the second model
 
     accuracy                           0.99     19384
   
-   macro avg       0.92      0.99      0.95     19384
-
-weighted avg       0.99      0.99      0.99     19384
+   macro avg        0.92       0.99       0.95      19384
+ 
+weighted avg        0.99       0.99       0.99      19384
 
 
 A Summary: After running each model,the Model 2 performs slightly better. The results above show a very close comparison between each model.  Therefore, I would recommend to use Model 2 as it better predicting than Model 1.
