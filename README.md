@@ -9,7 +9,7 @@ It was done again by Randomizing the data and it still came with a 99% accaury t
 The Results were as follows:
 For the first model
               
-              precision    recall  f1-score   support
+               precision    recall  f1-score   support
 
            0       1.00      0.99      1.00     18765
            1       0.85      0.91      0.88       619
@@ -20,7 +20,7 @@ weighted avg       0.99      0.99      0.99     19384
 
 For the second model
  
- precision    recall  f1-score   support
+                precision   recall    f1-score   support
 
            0       1.00      0.99      1.00     18765
            1       0.84      0.99      0.91       619
