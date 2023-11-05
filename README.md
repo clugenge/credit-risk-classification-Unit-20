@@ -15,7 +15,9 @@ For the first model
            1       0.85      0.91      0.88       619
 
     accuracy                           0.99     19384
+   
    macro avg       0.92      0.95      0.94     19384
+
 weighted avg       0.99      0.99      0.99     19384
 
 For the second model
@@ -26,7 +28,9 @@ For the second model
            1       0.84      0.99      0.91       619
 
     accuracy                           0.99     19384
+  
    macro avg       0.92      0.99      0.95     19384
+
 weighted avg       0.99      0.99      0.99     19384
 
 
